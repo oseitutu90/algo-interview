@@ -1,0 +1,58 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch MinimumSwaps",
+            "request": "launch",
+            "mainClass": "MinimumSwaps",
+            "projectName": "algo_7cc620c8"
+        },
+        {
+            "type": "java",
+            "name": "Launch ReapeatedString",
+            "request": "launch",
+            "mainClass": "ReapeatedString",
+            "projectName": "algo_7cc620c8"
+        },
+        {
+            "type": "java",
+            "name": "Launch interviewTwoStrings",
+            "request": "launch",
+            "mainClass": "interviewTwoStrings",
+            "projectName": "algo_7cc620c8"
+        },
+        {
+            "type": "java",
+            "name": "Launch targetSum",
+            "request": "launch",
+            "mainClass": "targetSum",
+            "projectName": "algo_7cc620c8"
+        },
+        {
+            "type": "java",
+            "name": "Launch BoatToSavePeople",
+            "request": "launch",
+            "mainClass": "BoatToSavePeople",
+            "projectName": "algo_7cc620c8"
+        },
+        {
+            "type": "java",
+            "name": "Launch test",
+            "request": "launch",
+            "mainClass": "test",
+            "projectName": "algo_7cc620c8"
+        },
+        {
+            "name": "Python: Current File",
+            "type": "python",
+            "request": "launch",
+            "program": "${file}",
+            "console": "integratedTerminal",
+            "justMyCode": true
+        }
+    ]
+}
